@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* El Aster */
+
+p{
+    color: red;
+}
+
+/* Las etiquetas se invocan por su nombre */
+div{
+    border: 4px solid #00FF00;
+}
+
+/* Las clases afectan a los elementos que tengan esa clase */
+
+.clase-caja{
+    border: 8px solid #e8ac09;
+    background-color: #07bbdf;
+}
+
+.clase-parrafo{
+    color: white;
+}
+
+/* Los IDs afectan a elementos especificos */
+#fotografia{
+    border: 1px solid #e809bf;
+    Width: 300px;
+}
